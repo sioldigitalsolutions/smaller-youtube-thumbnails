@@ -2,7 +2,7 @@
 
 **Extension - Smaller YouTube Thumbnails (Grid Viewer)**
 
-**Resizes YouTube thumbnails and hides Shorts on Home and Subscriptions pages. Improves visibility for easier browsing.**
+Resizes YouTube thumbnails and hides Shorts on Home and Subscriptions pages. Improves visibility for easier browsing.
 
 ---
 
