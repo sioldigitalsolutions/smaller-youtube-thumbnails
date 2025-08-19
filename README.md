@@ -62,7 +62,7 @@ Until published on the Chrome Web Store, you can install manually:
 
 📜 **License**
 
-This project is licensed under the [MIT License](https://github.com/SiolDigitalSolutions/smaller-youtube-thumbnails/LICENSE.HTML).
+This project is licensed under the [MIT License](https://sioldigitalsolutions.github.io/smaller-youtube-thumbnails/LICENSE.html).
 
 ---
 
