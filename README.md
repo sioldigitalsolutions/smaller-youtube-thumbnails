@@ -1,6 +1,6 @@
-**Extension - Chrome Web Store**
+**Chrome Web Store:**
 
-**Smaller YouTube Thumbnails (Grid Viewer)**
+**Extension - Smaller YouTube Thumbnails (Grid Viewer)**
 
 **Resizes YouTube thumbnails and hides Shorts on Home and Subscriptions pages. Improves visibility for easier browsing.**
 
