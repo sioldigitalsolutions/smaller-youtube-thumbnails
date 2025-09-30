@@ -1,5 +1,5 @@
 
-**Chrome Webstore Extension: Smaller YouTube Thumbnails (Grid Viewer)**
+**Chrome Webstore Extension: Compact Grid Browser - For YouTube™**
 
 Resizes YouTube thumbnails and hides Shorts on Home and Subscriptions pages. Improves visibility for easier browsing.
 
@@ -13,11 +13,11 @@ Make YouTube easier to browse — shrink thumbnails and remove Shorts sections.
 
 🚀 **Features**
 
-- 🔳 Shrinks large YouTube video thumbnails for a tighter grid view
-- 🙈 Hides Shorts rows and "Shorts" shelf sections
-- 🏠 Works on Home and Subscriptions feeds
-- ⚡ Loads instantly — zero config, just install and go
-- 🔒 100% privacy-friendly: no tracking, ads, or data collection
+- 🔳 Shrinks YouTube thumbnails for a tighter grid view
+- 🙈 Hides Shorts rows and “Shorts” shelf sections
+- 🏠 Works on Home and Subscriptions pages
+- ⚡ Lightweight, fast, and simple — no settings required
+- 🔒 100% private: no tracking, no data collection
 
 ---
 
